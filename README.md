@@ -5,6 +5,7 @@ Main information about app
 App HTML details
 
 html
+
 ```<p> Text paragraph</p>```
 
 
@@ -12,6 +13,7 @@ html
 App JS details
 
 javascript
+
 ```console.log("Hello world");```
 
 
