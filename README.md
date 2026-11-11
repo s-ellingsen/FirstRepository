@@ -5,14 +5,14 @@ Main information about app
 App HTML details
 
 html
-<p> Text paragraph</p>
+```<p> Text paragraph</p>```
 
 
 ## Third header
 App JS details
 
 javascript
-console.log("Hello world");
+```console.log("Hello world");```
 
 
 ## Contributing
